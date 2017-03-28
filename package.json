@@ -1,0 +1,15 @@
+{
+  "name": "bot01",
+  "version": "1.0.0",
+  "description": "test bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jud Holliday (judholliday@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
+}
